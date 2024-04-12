@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Dropwood
-- 👀 I’m interested in Data Sciecne and Machine Learning, currently enrolled in Full Stack Data Science at AlmaBetter
-- 🌱 Currently advancing in Python, Java is also something which I am familiar with
-- 💞️ Pursuing my Masters in Science in Physics from IIT Delhi
+- 👋 Hi, I’m Abhay
+- 💞️ Pursuing my Masters of Science in Physics from IIT Delhi
 - 📫 You can reach me at my email dropwood786@gmail.com
 
 <!---
